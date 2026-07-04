@@ -1,0 +1,56 @@
+Change Comment: Unknown Component : MD1
+Change Component Comment : Designator=U5 Old Comment=RP2040 New Comment=
+Change Component Comment : Designator=J1 Old Comment=XC6220B331PR-G New Comment=
+Change Managed Component Library Link: Component "MD1" not found
+Change Managed Component Library Link: Component "Y1" not found
+Change component parameters: Component "Y1" not found
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=+BATT Pin=J1-2
+Add Pin To Net: Unknown Pin: Pin MD1-2
+Add Pin To Net: Unknown Pin: Pin MD1-8
+Add Pin To Net: Unknown Pin: Pin MD1-22
+Add Pin To Net: Unknown Pin: Pin MD1-23
+Add Pin To Net: Unknown Pin: Pin MD1-25
+Add Pin To Net: Unknown Pin: Pin MD1-36
+Add Pin To Net: Unknown Pin: Pin MD1-37
+Add Pin To Net: Unknown Pin: Pin MD1-45
+Add Pin To Net: Unknown Pin: Pin MD1-46
+Add Pin To Net: Unknown Pin: Pin MD1-47
+Add Pin To Net: Unknown Pin: Pin MD1-48
+Add Pin To Net: Unknown Pin: Pin MD2-1
+Add Pin To Net: Unknown Pin: Pin MD2-3
+Add Pin To Net: Unknown Pin: Pin MD2-4
+Add Pin To Net: Unknown Pin: Pin MD2-5
+Added Pin To Net: NetName=+3V3 Pin=U5-1
+Added Pin To Net: NetName=NetD8_2 Pin=U5-2
+Added Pin To Net: NetName=+3V3 Pin=U5-10
+Added Pin To Net: NetName=GND Pin=U5-19
+Added Pin To Net: NetName=NetC18_1 Pin=U5-20
+Added Pin To Net: NetName=NetR19_1 Pin=U5-21
+Added Pin To Net: NetName=+3V3 Pin=U5-22
+Added Pin To Net: NetName=+1V1 Pin=U5-23
+Added Pin To Net: NetName=NetMD1_23 Pin=U5-27
+Added Pin To Net: NetName=NetMD1_22 Pin=U5-28
+Added Pin To Net: NetName=+3V3 Pin=U5-33
+Added Pin To Net: NetName=NetMD2_4 Pin=U5-38
+Added Pin To Net: NetName=NetMD2_5 Pin=U5-39
+Added Pin To Net: NetName=+3V3 Pin=U5-42
+Added Pin To Net: NetName=NetC15_1 Pin=U5-43
+Added Pin To Net: NetName=+3V3 Pin=U5-44
+Added Pin To Net: NetName=+1V1 Pin=U5-45
+Added Pin To Net: NetName=NetR5_1 Pin=U5-46
+Added Pin To Net: NetName=NetR3_1 Pin=U5-47
+Added Pin To Net: NetName=+3V3 Pin=U5-48
+Added Pin To Net: NetName=+3V3 Pin=U5-49
+Added Pin To Net: NetName=+1V1 Pin=U5-50
+Added Pin To Net: NetName=NetU5_51 Pin=U5-51
+Added Pin To Net: NetName=NetU5_52 Pin=U5-52
+Added Pin To Net: NetName=NetU5_53 Pin=U5-53
+Added Pin To Net: NetName=NetU5_54 Pin=U5-54
+Added Pin To Net: NetName=NetU5_55 Pin=U5-55
+Added Pin To Net: NetName=NetR23_2 Pin=U5-56
+Added Pin To Net: NetName=GND Pin=U5-57
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Added Member To Class: ClassName=Main schematic Member=Component J1 B2B-XH-A(LF)(SN)

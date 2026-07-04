@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=+5V_OUT Pin=D6-A
+Removed Pin From Net: NetName=+5V Pin=D6-C
+Removed Pin From Net: NetName=+5V Pin=Designator43-1
+Removed Pin From Net: NetName=GND Pin=Designator43-2
+Removed Pin From Net: NetName=+5V Pin=Designator43-4
+Removed Pin From Net: NetName=+3V3 Pin=Designator43-5
+Removed Pin From Net: NetName=GND Pin=Designator43-EP
+Removed Pin From Net: NetName=GND Pin=MD3-1
+Removed Pin From Net: NetName=GND Pin=MD3-2
+Removed Pin From Net: NetName=GND Pin=MD3-3
+Removed Pin From Net: NetName=GND Pin=MD3-4
+Removed Pin From Net: NetName=GND Pin=MD3-5
+Removed Pin From Net: NetName=GND Pin=MD3-6
+Removed Pin From Net: NetName=+5V Pin=MD3-7
+Removed Pin From Net: NetName=+5V Pin=MD3-8
+Removed Pin From Net: NetName=+5V Pin=MD3-9
+Removed Pin From Net: NetName=GND Pin=MD3-10
+Change Footprint: Footprint Not Found FP-ESP32-WROOM-32E_M113EH-MFG
+Add Component: Footprint Not Found DIOM5336X265N
+Add Component: Footprint Not Found SOT-89-5
+Add Pin To Net: Unknown Pin: Pin D1-A
+Add Pin To Net: Unknown Pin: Pin D1-C
+Add Pin To Net: Unknown Pin: Pin MD1-39
+Add Pin To Net: Unknown Pin: Pin MD2-1
+Add Pin To Net: Unknown Pin: Pin MD2-3
+Add Pin To Net: Unknown Pin: Pin MD2-4
+Add Pin To Net: Unknown Pin: Pin MD2-5
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Added Pin To Net: NetName=NetJ2_B6 Pin=J2-B6
+Added Pin To Net: NetName=NetJ2_B6 Pin=R3-1
+Added Pin To Net: NetName=NetJ2_B6 Pin=U5-47
+Added Net: Name=NetJ2_B6
+Added Pin To Net: NetName=NetJ2_B7 Pin=J2-B7
+Added Pin To Net: NetName=NetJ2_B7 Pin=R5-1
+Added Pin To Net: NetName=NetJ2_B7 Pin=U5-46
+Added Net: Name=NetJ2_B7
+Added Pin To Net: NetName=NetJ3_B6 Pin=J3-B6
+Added Pin To Net: NetName=NetJ3_B6 Pin=R4-1
+Added Pin To Net: NetName=NetJ3_B6 Pin=U4-5
+Added Net: Name=NetJ3_B6
+Added Pin To Net: NetName=NetJ3_B7 Pin=J3-B7
+Added Pin To Net: NetName=NetJ3_B7 Pin=R8-1
+Added Pin To Net: NetName=NetJ3_B7 Pin=U4-6
+Added Net: Name=NetJ3_B7
+Add Class Member: Failed to add class member : Component D1 SS24
+Added Member To Class: ClassName=schematic (upgrade) Member=Component D4 SS24
+Added Member To Class: ClassName=schematic (upgrade) Member=Component D5 PWR LED
+Added Member To Class: ClassName=schematic (upgrade) Member=Component MD1 ESP32-WROOM-32E(M113EH3200PH3Q0)
+Added Member To Class: ClassName=schematic (upgrade) Member=Component R8 22R
+Add Class Member: Failed to add class member : Component U1 XC6220B331PR-G

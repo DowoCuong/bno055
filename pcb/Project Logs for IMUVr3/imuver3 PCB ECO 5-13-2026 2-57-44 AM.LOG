@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=+BATT Pin=U2-6
+Change Footprint: Footprint Not Found CAPC3216X190N
+Change Footprint: Footprint Not Found CAPC3216X190N
+Change Footprint: Footprint Not Found CAPC3216X190N
+Change Footprint: Footprint Not Found CAPC3216X190N
+Change Footprint: Footprint Not Found SOT95P280X145-5N
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Add Component: Footprint Not Found INDC2012X55N
+Add Component: Footprint Not Found INDC2012X55N
+Add Component: Footprint Not Found FP-ESP32-WROOM-32E_M113EH-MFG
+Add Component: Footprint Not Found SOP127P600X165-9N
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin MD1-1
+Add Pin To Net: Unknown Pin: Pin MD1-2
+Add Pin To Net: Unknown Pin: Pin MD1-3
+Add Pin To Net: Unknown Pin: Pin MD1-15
+Add Pin To Net: Unknown Pin: Pin MD1-25
+Add Pin To Net: Unknown Pin: Pin MD1-27
+Add Pin To Net: Unknown Pin: Pin MD1-28
+Add Pin To Net: Unknown Pin: Pin MD1-34
+Add Pin To Net: Unknown Pin: Pin MD1-35
+Add Pin To Net: Unknown Pin: Pin MD1-38
+Add Pin To Net: Unknown Pin: Pin MD1-39
+Add Pin To Net: Unknown Pin: Pin MD2-1
+Add Pin To Net: Unknown Pin: Pin MD2-3
+Add Pin To Net: Unknown Pin: Pin MD2-4
+Add Pin To Net: Unknown Pin: Pin MD2-5
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Added Member To Class: ClassName=schematic (upgrade) Member=Component C24 2.2uF
+Add Class Member: Failed to add class member : Component L1 2.2uH
+Add Class Member: Failed to add class member : Component L2 2.2uH
+Add Class Member: Failed to add class member : Component MD1 ESP32-WROOM-32E(M113EH3200PH3Q0)
+Added Member To Class: ClassName=schematic (upgrade) Member=Component U3 TLV62568DBVR

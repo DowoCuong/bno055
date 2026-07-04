@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GND Pin=U3-6
+Change Footprint: Footprint Not Found SOT95P280X145-5N
+Added Component: Designator=C27(CAPC3216X190N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CGA5L1X8L0G226M160AC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CGA5L1X8L0G226M160AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3216 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CGA5L1X8L0G226M160AC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found FP-ESP32-WROOM-32E_M113EH-MFG
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=+5V Pin=C27-2
+Add Pin To Net: Unknown Pin: Pin MD1-1
+Add Pin To Net: Unknown Pin: Pin MD1-2
+Add Pin To Net: Unknown Pin: Pin MD1-3
+Add Pin To Net: Unknown Pin: Pin MD1-15
+Add Pin To Net: Unknown Pin: Pin MD1-25
+Add Pin To Net: Unknown Pin: Pin MD1-27
+Add Pin To Net: Unknown Pin: Pin MD1-28
+Add Pin To Net: Unknown Pin: Pin MD1-34
+Add Pin To Net: Unknown Pin: Pin MD1-35
+Add Pin To Net: Unknown Pin: Pin MD1-38
+Add Pin To Net: Unknown Pin: Pin MD1-39
+Add Pin To Net: Unknown Pin: Pin MD2-1
+Add Pin To Net: Unknown Pin: Pin MD2-3
+Add Pin To Net: Unknown Pin: Pin MD2-4
+Add Pin To Net: Unknown Pin: Pin MD2-5
+Added Member To Class: ClassName=schematic (upgrade) Member=Component C27 22uF
+Add Class Member: Failed to add class member : Component MD1 ESP32-WROOM-32E(M113EH3200PH3Q0)
+Added Member To Class: ClassName=schematic (upgrade) Member=Component U3 TLV62568DBVR
