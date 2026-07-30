@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=Designator36-1
+Removed Pin From Net: NetName=GND Pin=Designator36-2
+Removed Pin From Net: NetName=NetC1_2 Pin=Designator36-4
+Removed Pin From Net: NetName=+3V3 Pin=Designator36-5
+Removed Pin From Net: NetName=GND Pin=Designator36-EP
+Removed Pin From Net: NetName=GND Pin=Designator37-1
+Removed Pin From Net: NetName=+3V3 Pin=Designator37-2
+Removed Pin From Net: NetName=NetMD1_3 Pin=Designator37-3
+Removed Pin From Net: NetName=GND Pin=Designator37-15
+Removed Pin From Net: NetName=NetMD1_25 Pin=Designator37-25
+Removed Pin From Net: NetName=NetMD1_27 Pin=Designator37-27
+Removed Pin From Net: NetName=NetMD1_28 Pin=Designator37-28
+Removed Pin From Net: NetName=NetMD1_34 Pin=Designator37-34
+Removed Pin From Net: NetName=NetMD1_35 Pin=Designator37-35
+Add Component: Footprint Not Found FP-ESP32-WROOM-32E_M113EH-MFG
+Added Component: Designator=U1(SOT-89-5)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XC6220B331PR-G/Torex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Torex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XC6220B331PR-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-89 Torex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XC6220B331PR-G/Torex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOT95P280X145-5N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLV62568DBVR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLV62568DBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLV62568DBVR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin MD1-1
+Add Pin To Net: Unknown Pin: Pin MD1-2
+Add Pin To Net: Unknown Pin: Pin MD1-3
+Add Pin To Net: Unknown Pin: Pin MD1-15
+Add Pin To Net: Unknown Pin: Pin MD1-25
+Add Pin To Net: Unknown Pin: Pin MD1-27
+Add Pin To Net: Unknown Pin: Pin MD1-28
+Add Pin To Net: Unknown Pin: Pin MD1-34
+Add Pin To Net: Unknown Pin: Pin MD1-35
+Add Pin To Net: Unknown Pin: Pin MD1-38
+Add Pin To Net: Unknown Pin: Pin MD1-39
+Add Pin To Net: Unknown Pin: Pin MD2-1
+Add Pin To Net: Unknown Pin: Pin MD2-3
+Add Pin To Net: Unknown Pin: Pin MD2-4
+Add Pin To Net: Unknown Pin: Pin MD2-5
+Added Pin To Net: NetName=NetC1_2 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=+3V3 Pin=U1-3
+Added Pin To Net: NetName=NetC1_2 Pin=U1-4
+Added Pin To Net: NetName=+3V3 Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=+5V Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetL2_1 Pin=U3-3
+Added Pin To Net: NetName=+5V Pin=U3-4
+Added Pin To Net: NetName=NetR17_2 Pin=U3-5
+Add Class Member: Failed to add class member : Component MD1 ESP32-WROOM-32E(M113EH3200PH3Q0)
+Added Member To Class: ClassName=schematic (upgrade) Member=Component U1 XC6220B331PR-G
+Added Member To Class: ClassName=schematic (upgrade) Member=Component U3 TLV62568DBVR

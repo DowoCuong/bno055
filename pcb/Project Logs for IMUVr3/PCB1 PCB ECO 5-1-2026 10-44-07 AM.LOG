@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=+BATT Pin=J1-2
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=J1 NewDesignator=U1
+Added Component: Designator=J1(JST_B2B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B2B-XH-A(LF)(SN)/JST/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B2B-XH-A(LF)(SN)/JST/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+BATT Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Add Pin To Net: Unknown Pin: Pin MD1-2
+Add Pin To Net: Unknown Pin: Pin MD1-8
+Add Pin To Net: Unknown Pin: Pin MD1-22
+Add Pin To Net: Unknown Pin: Pin MD1-23
+Add Pin To Net: Unknown Pin: Pin MD1-25
+Add Pin To Net: Unknown Pin: Pin MD1-36
+Add Pin To Net: Unknown Pin: Pin MD1-37
+Add Pin To Net: Unknown Pin: Pin MD1-45
+Add Pin To Net: Unknown Pin: Pin MD1-46
+Add Pin To Net: Unknown Pin: Pin MD1-47
+Add Pin To Net: Unknown Pin: Pin MD1-48
+Add Pin To Net: Unknown Pin: Pin MD2-1
+Add Pin To Net: Unknown Pin: Pin MD2-3
+Add Pin To Net: Unknown Pin: Pin MD2-4
+Add Pin To Net: Unknown Pin: Pin MD2-5
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Change Net Name : Old Net Name=NetD?_A New Net Name=NetD2_A
+Add Class Member: Failed to add class member : Component MD1
+Added Member To Class: ClassName=Main schematic Member=Component U1
+Add Class Member: Failed to add class member : Component Y1 NX3225SA-12.000M-STD-CRS-2

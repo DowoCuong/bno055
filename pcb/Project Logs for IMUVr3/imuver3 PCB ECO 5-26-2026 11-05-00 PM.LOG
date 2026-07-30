@@ -1,0 +1,17 @@
+Change Footprint: Footprint Not Found FP-ESP32-WROOM-32E_M113EH-MFG
+Add Component: Footprint Not Found DIOM5336X265N
+Add Component: Footprint Not Found SOT-89-5
+Add Pin To Net: Unknown Pin: Pin D2-A
+Add Pin To Net: Unknown Pin: Pin D2-C
+Add Pin To Net: Unknown Pin: Pin MD1-39
+Add Pin To Net: Unknown Pin: Pin MD2-1
+Add Pin To Net: Unknown Pin: Pin MD2-3
+Add Pin To Net: Unknown Pin: Pin MD2-4
+Add Pin To Net: Unknown Pin: Pin MD2-5
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Class Member: Failed to add class member : Component D2 SS24
+Add Class Member: Failed to add class member : Component U1 XC6220B331PR-G

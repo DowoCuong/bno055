@@ -1,0 +1,181 @@
+Add Component: Footprint Not Found CAPC3216X180X55ML20T25
+Add Component: Footprint Not Found CAPC3216X180X55ML20T25
+Add Component: Footprint Not Found CAPC3216X180X55ML20T25
+Add Component: Footprint Not Found CAPC3216X180X55ML20T25
+Add Component: Footprint Not Found MURA-0603_H_0.9_M
+Add Component: Footprint Not Found MURA-0603_H_0.9_M
+Add Component: Footprint Not Found MURA-0603_H_0.9_M
+Add Component: Footprint Not Found MURA-0603_H_0.9_M
+Add Component: Footprint Not Found MURA-0603_H_0.9_M
+Add Component: Footprint Not Found MURA-0603_H_0.9_M
+Add Component: Footprint Not Found MURA-0603_H_0.9_M
+Add Component: Footprint Not Found MURA-0603_H_0.9_M
+Add Component: Footprint Not Found MURA-0603_H_0.9_M
+Add Component: Footprint Not Found FP-GRM188-0_1-e0_2_0_5-IPC_A
+Add Component: Footprint Not Found FP-GRM188-0_1-e0_2_0_5-IPC_A
+Add Component: Footprint Not Found MURA-0603_H_0.9_M
+Add Component: Footprint Not Found FP-GRM188-0_1-e0_2_0_5-IPC_A
+Add Component: Footprint Not Found MURA-0603_H_0.9_M
+Add Component: Footprint Not Found MURA-0603_H_0.9_M
+Add Component: Footprint Not Found CAPC1206(3216)190_M
+Add Component: Footprint Not Found MURA-0603_H_0.9_M
+Add Component: Footprint Not Found MURA-0603_H_0.9_M
+Add Component: Footprint Not Found MURA-0603_H_0.9_M
+Add Component: Footprint Not Found FP-GRM188-0_1-e0_2_0_5-IPC_A
+Add Component: Footprint Not Found MURA-0603_H_0.9_M
+Add Component: Footprint Not Found FP-403AE-MFG
+Add Component: Footprint Not Found FP-403AE-MFG
+Add Component: Footprint Not Found FP-403AE-MFG
+Add Component: Footprint Not Found FP-403AE-MFG
+Add Component: Footprint Not Found WL-SMCW_1206_150120xx75000
+Add Component: Footprint Not Found WL-SMCW_1206_150120xx75000
+Add Component: Footprint Not Found WL-SMCW_1206_150120xx75000
+Add Component: Footprint Not Found WL-SMCW_1206_150120xx75000
+Added Component: Designator=IC1(SOT89)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/HT7833/ht7730/view-part/6656053/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ht7833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HT7833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HT7833/ht7730/view-part/6656053/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC2(SOT89)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/HT7833/ht7730/view-part/6656053/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ht7833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HT7833"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HT7833/ht7730/view-part/6656053/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found FP-B2B-XH-A_LF_SN-MFG
+Add Component: Footprint Not Found HRO_TYPE-C-31-M-12
+Add Component: Footprint Not Found HRO_TYPE-C-31-M-12
+Add Component: Footprint Not Found SK12D07VG4
+Add Component: Footprint Not Found FP-ESP32-WROOM-32E_M113EH-MFG
+Added Component: Designator=MD2(PCBComponent_1)
+Add Component: Footprint Not Found FP-SS8050-G-IPC_A
+Add Component: Footprint Not Found FP-SS8050-G-IPC_A
+Added Component: Designator=Q3(SOT23-132)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Lead Dia. 0.5 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "1995/1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT23-132)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Lead Dia. 0.5 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "1995/1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found FP-CRCW0603-e3-IPC_A
+Add Component: Footprint Not Found FP-CRCW0603-e3-IPC_A
+Add Component: Footprint Not Found FP-CRCW0603-e3-IPC_A
+Add Component: Footprint Not Found FP-CRCW0603-e3-IPC_A
+Add Component: Footprint Not Found FP-CRCW0603-e3-IPC_A
+Add Component: Footprint Not Found FP-CRCW0603-e3-IPC_A
+Add Component: Footprint Not Found FP-CRCW0603-e3-IPC_A
+Add Component: Footprint Not Found FP-CRCW0603-e3-IPC_A
+Add Component: Footprint Not Found FP-CRCW0603-e3-IPC_A
+Add Component: Footprint Not Found FP-CRCW0603-e3-IPC_A
+Add Component: Footprint Not Found FP-CR0603-IPC_A
+Add Component: Footprint Not Found FP-CRCW0603-e3-IPC_A
+Add Component: Footprint Not Found FP-CRCW0603-e3-IPC_A
+Add Component: Footprint Not Found FP-CRCW0603-e3-IPC_A
+Add Component: Footprint Not Found FP-CR0603-IPC_A
+Add Component: Footprint Not Found FP-CR0603-IPC_A
+Add Component: Footprint Not Found FP-CR0603-IPC_A
+Add Component: Footprint Not Found FP-CR0603-IPC_A
+Add Component: Footprint Not Found FP-CR0603-IPC_A
+Add Component: Footprint Not Found FP-CR0603-IPC_A
+Add Component: Footprint Not Found FP-CR0603-IPC_A
+Add Component: Footprint Not Found FP-CR0603-IPC_A
+Add Component: Footprint Not Found FP-CR0603-IPC_A
+Add Component: Footprint Not Found FP-B3U-1000P-MFG
+Add Component: Footprint Not Found FP-B3U-1000P-MFG
+Add Component: Footprint Not Found FP-B3U-1000P-MFG
+Add Component: Footprint Not Found SOIC127P600X175-9N
+Add Component: Footprint Not Found SOIC127P600X180-16N
+Add Component: Footprint Not Found QFN40P700X700X90-57N
+Add Component: Footprint Not Found SOT95P280X145-6N
+Add Component: Footprint Not Found SOIC127P790X216-8N
+Add Component: Footprint Not Found FP-NX3225SA-MFG
+Added Net: Name=+1V1
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5V Pin=IC1-2
+Added Pin To Net: NetName=+5V Pin=IC1-2@1
+Added Pin To Net: NetName=+5V Pin=IC2-2
+Added Pin To Net: NetName=+5V Pin=IC2-2@1
+Added Net: Name=+5V
+Added Net: Name=+BATT
+Added Net: Name=+VBIN
+Added Pin To Net: NetName=-BATT Pin=Q4-2
+Added Net: Name=-BATT
+Added Net: Name=3V3
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC2-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-3
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC3_2 Pin=IC2-3
+Added Net: Name=NetC3_2
+Added Net: Name=NetC15_1
+Added Net: Name=NetC18_1
+Added Net: Name=NetC19_1
+Added Net: Name=NetC21_1
+Added Net: Name=NetD2_1
+Added Net: Name=NetD3_1
+Added Net: Name=NetD5_1
+Added Net: Name=NetD6_1
+Added Net: Name=NetD7_1
+Added Net: Name=NetD8_1
+Added Net: Name=NetD8_2
+Added Net: Name=NetJ2_A5
+Added Net: Name=NetJ2_A6
+Added Net: Name=NetJ2_A7
+Added Net: Name=NetJ2_B5
+Added Net: Name=NetJ3_A5
+Added Net: Name=NetJ3_A6
+Added Net: Name=NetJ3_A7
+Added Net: Name=NetJ3_B5
+Added Net: Name=NetMD1_3
+Added Net: Name=NetMD1_25
+Added Net: Name=NetMD1_27
+Added Net: Name=NetMD1_28
+Added Net: Name=NetMD1_34
+Added Net: Name=NetMD1_35
+Added Net: Name=NetMD2_4
+Added Net: Name=NetMD2_5
+Added Net: Name=NetQ1_1
+Added Net: Name=NetQ1_2
+Added Net: Name=NetQ2_1
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=Q4-3
+Added Net: Name=NetQ3_3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Net: Name=NetQ4_1
+Added Net: Name=NetR3_1
+Added Net: Name=NetR4_1
+Added Net: Name=NetR5_1
+Added Net: Name=NetR8_1
+Added Net: Name=NetR12_2
+Added Net: Name=NetR14_2
+Added Net: Name=NetR19_1
+Added Net: Name=NetR21_1
+Added Net: Name=NetR23_1
+Added Net: Name=NetR23_2
+Added Net: Name=NetU5_51
+Added Net: Name=NetU5_52
+Added Net: Name=NetU5_53
+Added Net: Name=NetU5_54
+Added Net: Name=NetU5_55
+Added Class: Name=Main schematic

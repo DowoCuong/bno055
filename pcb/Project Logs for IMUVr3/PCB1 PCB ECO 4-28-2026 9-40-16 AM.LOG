@@ -1,0 +1,17 @@
+Add Component: Footprint Not Found CAPC3216X180X55ML20T25
+Add Component: Footprint Not Found CAPC3216X180X55ML20T25
+Add Component: Footprint Not Found FP-403AE-MFG
+Add Component: Footprint Not Found FP-403AE-MFG
+Add Component: Footprint Not Found WL-SMCW_1206_150120xx75000
+Add Component: Footprint Not Found FP-B2B-XH-A_LF_SN-MFG
+Add Component: Footprint Not Found SK12D07VG4
+Add Component: Footprint Not Found FP-CR0603-IPC_A
+Add Component: Footprint Not Found SOT89_M
+Added Net: Name=+3V3
+Added Net: Name=+5V
+Added Net: Name=+BATT
+Added Net: Name=+VBIN
+Added Net: Name=GND
+Added Net: Name=NetC1_2
+Added Net: Name=NetD5_1
+Added Class: Name=power
